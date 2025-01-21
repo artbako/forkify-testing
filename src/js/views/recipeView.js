@@ -1,4 +1,4 @@
-import View from './view';
+import View from './View';
 
 import icons from '../../img/icons.svg'; //Parcel 2 with url:
 import fracty from 'fracty';
